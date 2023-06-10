@@ -478,7 +478,7 @@ footer .join-button {
     outline: none;
   }
   .join-button {
-    left: 69%;
+    left: 65%;
     border: none;
     background-color: #2dbcdb;
     color: #f2f2f2;
@@ -757,6 +757,7 @@ footer .join-button {
     align-items: flex-start;
   }
   footer .join-button {
+    margin-top: 5px;
     left: 62%;
   }
   .socialmedia-links {
